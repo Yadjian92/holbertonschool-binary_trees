@@ -16,6 +16,7 @@ int max(int a, int b)
 	else
 		return (b);
 }
+
 /**
 * height - Calculates the height of a binary tree.
 * @tree: pointer to the root node of the tree to measure the height
